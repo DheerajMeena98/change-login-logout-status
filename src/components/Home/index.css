@@ -1,0 +1,8 @@
+.login-logout-bcg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: linear-gradient(to bottom, #303150, #b5b9ff);
+}
